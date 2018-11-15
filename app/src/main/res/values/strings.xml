@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VolleyConnecction</string>
+    <string name="nombre">Nombre</string>
+    <string name="profesion">Profesion</string>
+    <string name="txtNombre"></string>
+    <string name="txtProfesion"></string>
+</resources>
